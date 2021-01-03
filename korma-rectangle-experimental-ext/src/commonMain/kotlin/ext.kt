@@ -1,4 +1,4 @@
-package com.soywiz.korma.geom.ext
+package com.soywiz.korma.geom
 
 import com.soywiz.korma.geom.*
 
